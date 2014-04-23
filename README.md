@@ -5,7 +5,7 @@ Some HTML templates used in Tea & Tech Workshops!
 
 Instructions:
 
-1. Pick a template
+1. Pick a template.
 
 2. Open that folder, and open up the .html file inside.
 
