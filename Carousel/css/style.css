@@ -109,8 +109,7 @@ body {
   margin: auto;  /*Centers the video by automatically adjusting the left and right margins*/
   display: block; /*Allows the margin: auto to work */
   /* If you want to change the size of the video, adjust the width */
-  width: 35%;
-  height: 225px;
+  width: 50%;
 }
 
 /* RESPONSIVE CSS
