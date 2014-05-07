@@ -1,4 +1,6 @@
-This template was made by the wondeful folks at http://bootstraptaste.com. 
+This template was made by the wondeful folks at http://bootstraptaste.com.
+The full version is available here: http://bootstrapzero.com/bootstrap-template/amoeba
+(We have made a few modifications to make it a bit simpler to use in T&Tech events.)
 
 It is made available under the MIT License:
 
