@@ -1,25 +1,6 @@
 /* Comments are written between these markers--->*/ 
 
-
-/*Makes the carousel images resize nicely*/
-.item {
-  background-size: cover;
-}
-
-/* The next three items are where you adjust the carousel images */
-#first-carousel-item {
-  background-image: url("http://teatreegullyboardingkennels.com.au/wp-content/uploads/2014/04/Cute-Dog-Wallpaper.jpg");
-}
-
-#second-carousel-item {
- background-image: url("http://dummyimage.com/900x500/4d494d/686a82.gif&text=placeholder+image"); 
-}
-
-#third-carousel-item {
- background-image: url("http://dummyimage.com/900x500/4d494d/686a82.gif&text=placeholder+image"); 
-}
-
-
+/*Adds some styles to all <h2> elements*/
 h2 {
   text-align: center;
   font-weight: bold;
@@ -32,10 +13,25 @@ body {
   background-color: #FFEEEE; /* Makes the body's background pink*/
 } 
 
-
 /* The :hover selector allows you to change how things look when your mouse is hovering over them*/
 h2:hover {
   color: blue;
+}
+
+/*Add this class to an element to make the text in it blue and bold! 
+Eg: <p class="blueAndBold"> HELLO! </p>; */
+.blueAndBold {
+  color: blue;
+  font-weight: bold;
+}
+
+/*Add this class to an element to surround it in a stripy border!
+Eg. <div class="stripy-border"> HELLO! </div> */
+
+.stripy-border {
+  border-width: 2px;
+  border-style: dashed;
+  border-color: red;
 }
 
 /* Some styles for the youtube video at the bottom */
