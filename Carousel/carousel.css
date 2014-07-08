@@ -7,7 +7,6 @@ h2 {
   color: pink;
 }
 
-
 /* The "body" represents the entire page*/
 body {
   background-color: #FFEEEE; /* Makes the body's background pink*/
@@ -34,3 +33,8 @@ Eg. <div class="stripy-border"> HELLO! </div> */
   border-color: red;
 }
 
+/*Affects the size of the images in the carousel. Play around to get the effect you want!*/
+.carousel-image {
+  min-width: 1200px;
+  width: 100%;
+}
