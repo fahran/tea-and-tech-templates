@@ -19,8 +19,8 @@ h2:hover {
 }
 
 /*Add this class to an element to make the text in it blue and bold! 
-Eg: <p class="blueAndBold"> HELLO! </p>; */
-.blueAndBold {
+Eg: <p class="blue-and-bold"> HELLO! </p>; */
+.blue-and-bold {
   color: blue;
   font-weight: bold;
 }
@@ -34,8 +34,3 @@ Eg. <div class="stripy-border"> HELLO! </div> */
   border-color: red;
 }
 
-/* Some styles for the youtube video at the bottom */
-.center-embedded-video > iframe {
-  display: block;
-  margin: 0 auto;
-}
